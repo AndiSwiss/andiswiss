@@ -14,6 +14,9 @@
 👨‍💻 Software Developer  
 👨‍🎓 Studying Computer Science  @[FHNW](https://www.fhnw.ch/de/studium/technik/icompetence)
 
+
+<!--[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)-->
+
 <!--🚧 **Current Project:** Studying-->
 
 
