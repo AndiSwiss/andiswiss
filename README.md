@@ -18,7 +18,6 @@
 
 
 
-<!--[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/lucafluri)-->
 
 
 
@@ -35,4 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width=150 >](https://www.buymeacoffee.com/andiswiss)
+
 -->
