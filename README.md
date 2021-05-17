@@ -9,10 +9,11 @@
 
 
 [![https://andiswiss.ch](https://img.shields.io/static/v1?label=https://andiswiss.ch&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://andiswiss.ch)
+
 [![code@andiwiss.ch](https://img.shields.io/static/v1?label=code@andiwiss.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](code@andiwiss.ch)
 
-👨‍💻 Software Developer  
-<br>
+👨‍💻 Software Developer
+
 👨‍🎓 Studying Computer Science  @[FHNW](https://www.fhnw.ch/de/studium/technik/icompetence)
 
 
