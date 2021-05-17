@@ -12,6 +12,7 @@
 [![code@andiwiss.ch](https://img.shields.io/static/v1?label=code@andiwiss.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](code@andiwiss.ch)
 
 👨‍💻 Software Developer  
+
 👨‍🎓 Studying Computer Science  @[FHNW](https://www.fhnw.ch/de/studium/technik/icompetence)
 
 
