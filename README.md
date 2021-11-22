@@ -8,16 +8,17 @@
 
 
 
-[![https://andiswiss.ch](https://img.shields.io/static/v1?label=https://andiswiss.ch&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://andiswiss.ch)
-
-[![code@andiwiss.ch](https://img.shields.io/static/v1?label=code@andiwiss.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:code@andiwiss.ch)
-
 👨‍💻 Software Developer
 
 👨‍🎓 Studying Computer Science  @[FHNW](https://www.fhnw.ch/de/studium/technik/icompetence)
 
 
-<!--[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)-->
+<!--[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/.../)-->
+
+<!--[![https://example.com](https://img.shields.io/static/v1?label=https://andiswiss.ch&message=%20&color=green&logo=&style=flat-square&logoColor=white)](https://example.com)-->
+
+<!--[![mail@example.com](https://img.shields.io/static/v1?label=code@andiwiss.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:mail@example.comh)-->
+
 
 <!--🚧 **Current Project:** Studying-->
 
